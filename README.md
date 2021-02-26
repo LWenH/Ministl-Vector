@@ -13,5 +13,5 @@ make
 ```
 
 # 参考
-1.https://github.com/Alinshans/MyTinySTL
+1. https://github.com/Alinshans/MyTinySTL  
 2.《STL源码剖析》 侯捷
