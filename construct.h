@@ -52,7 +52,6 @@ namespace ministl
     {
         for(;first != last;++first)
         {
-            //todo figure out the purpose
             destroy(&*first);
         }
     }
