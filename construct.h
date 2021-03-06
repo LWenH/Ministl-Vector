@@ -71,9 +71,4 @@ namespace ministl
 }
 
 
-
-
-
-
-
 #endif //MINISTL_CONSTRUCT_H
